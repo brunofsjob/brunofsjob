@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- cabeçalhos -->
+## Olá, seja bem-vindo! 👋
 
-<!--
-**brunofsjob/brunofsjob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👤 Me chamo Bruno <br>
+🎓 Sou formado em Engenharia de Software e, também, tenho formação na área jurídica <br>
+📚 Estou sempre em busca de novos conhecimentos <br>
+🗞️ Gosto de consumir conteúdos sobre temas relacionados a tecnologia, assuntos jurídicos, financeiros e atualidades geopolíticas.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+## Soft Skills
+ 🤝 Trabalho em equipe <br>
+ 🗣️ Boa comunicação <br>
+ 💬 Pensamento estratégico <br>
+ 💪🏻 Resiliência <br>
+ 🧘🏻‍♂️ Adaptabilidade <br>
+ 🫂 Respeito e empatia pelas pessoas <br>
+ 
+
+ ## Hard Skills
+ 
+
+HTML | CSS | JavaScript | PHP | Python | Mysql | Docker | Kubernetes
