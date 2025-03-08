@@ -20,5 +20,5 @@
  ## Hard Skills
  
 
-HTML | CSS | JavaScript | PHP | Python | Mysql | Git | Github| Docker | Kubernetes | PineScript
+HTML | CSS | JavaScript | PHP | Python | Mysql | Git | Github| Docker | Kubernetes | PineScript | Linux
 
