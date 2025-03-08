@@ -16,8 +16,9 @@
  🧘🏻‍♂️ Adaptabilidade <br>
  🫂 Respeito e empatia pelas pessoas <br>
  
-
+----
  ## Hard Skills
  
 
 HTML | CSS | JavaScript | PHP | Python | Mysql | Docker | Kubernetes
+
