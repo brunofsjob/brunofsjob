@@ -106,7 +106,7 @@ margin-left: auto; margin-right: auto;"/>
 <td style="padding: 10px 15px 0px 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="width:32px;height:32px;vertical-align:text-bottom;margin-left: auto; margin-right: auto;"/>
 <a href="https://hermes.dio.me/certificates/GTDLJUND.pdf">
-<p >Docker</p>
+<p>Docker</p></a>
 </td>
 
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" style="width:32px;height:32px;margin-left: auto; margin-right: auto;vertical-align:text-bottom;"/>
@@ -128,7 +128,7 @@ margin-left: auto; margin-right: auto;"/>
 #### ***Obs.: ⏳ Portifólio em desenvolvimento...***
 
 Contate-me:<br><br>
-<a href="htttps://www.instagram.com/brunofsjob">
+<a href="https://www.instagram.com/brunofsjob">
 <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg" style="width:32px;height:32px;margin-left: auto; margin-right: auto;vertical-align:text-bottom;"/></a>
 
 ### bye!!
