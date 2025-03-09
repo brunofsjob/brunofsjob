@@ -127,7 +127,7 @@ margin-left: auto; margin-right: auto;"/>
 
 #### ***Obs.: ⏳ Portifólio em desenvolvimento...***
 
-Contate-me:<br>
+Contate-me:<br><br>
 <a href="htttps://www.instagram.com/brunofsjob">
 <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg" style="width:32px;height:32px;margin-left: auto; margin-right: auto;vertical-align:text-bottom;"/></a>
 
