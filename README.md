@@ -1,11 +1,11 @@
 <!-- cabeçalhos -->
+![alt text](image.png) 
+
 <center>
 <h1> Olá!</h1> 
 <h1>Sejam bem-vindos... 👋 </h1>
 </center>
 <br>
-
-![alt text](image.png) 
 
 ## Um pouco sobre mim...
 ### 👤 Me chamo Bruno,
