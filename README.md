@@ -7,12 +7,9 @@
 
 ![alt text](image.png) 
 
-##### Aos poucos estou montando meu portifólio
-
-| Um pouco sobre mim... |
+| 👤  Um pouco sobre mim... |
 | -------------------|
 
-### 👤 Me chamo Bruno,
 🎓 Sou formado em Engenharia de Software e, também, tenho formação em área jurídica. <br>
 📚 Estou sempre em busca de novos conhecimentos. <br>
 🗞️ Gosto de consumir conteúdos sobre temas relacionados a tecnologia, assuntos jurídicos, financeiros e atualidades geopolíticas.
