@@ -106,6 +106,14 @@ margin-left: auto; margin-right: auto;"/>
 <p>Kubernetes</p>
 </td>
 
+
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width:32px;height:32px;margin-left: auto; margin-right: auto;vertical-align:text-bottom;"/>
+<p>AWS</p>
+</td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="width:32px;height:32px;margin-left: auto; margin-right: auto;vertical-align:text-bottom;"/>
+<p>Azure</p>
+</td>
+
 </tr>
 </table>   
 
