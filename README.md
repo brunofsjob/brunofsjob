@@ -103,8 +103,6 @@ margin-left: auto; margin-right: auto;"/>
 <p>Nginx </p></td>
 
 
-
-
 <td style="padding: 10px 15px 0px 10px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="width:32px;height:32px;vertical-align:text-bottom;margin-left: auto; margin-right: auto;"/>
 <a href="https://hermes.dio.me/certificates/GTDLJUND.pdf">
@@ -123,10 +121,11 @@ margin-left: auto; margin-right: auto;"/>
 <p>Azure</p>
 </td>
 
-
 </tr>
 </table>   
+<br>
 
+#### ***Obs.: ⏳ Portifólio em desenvolvimento...***
 
 
 
