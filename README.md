@@ -2,11 +2,15 @@
 ![alt text](image.png) 
 
 <center>
-<h1> Olá, sejam bem-vindos... 👋 </h1>
+<h2> Olá, sejam bem-vindos... 👋 </h2>
 </center>
 <br>
 
-## Um pouco sobre mim...
+##### Aos poucos estou montando meu portifólio
+
+| Um pouco sobre mim... |
+| -------------------|
+
 ### 👤 Me chamo Bruno,
 🎓 Sou formado em Engenharia de Software e, também, tenho formação em área jurídica. <br>
 📚 Estou sempre em busca de novos conhecimentos. <br>
