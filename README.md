@@ -2,8 +2,7 @@
 ![alt text](image.png) 
 
 <center>
-<h1> Olá!</h1> 
-<h1>Sejam bem-vindos... 👋 </h1>
+<h1> Olá, sejam bem-vindos... 👋 </h1>
 </center>
 <br>
 
