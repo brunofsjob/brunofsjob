@@ -77,6 +77,15 @@ margin-left: auto; margin-right: auto;"/>
 <table style="text-align: center; vertical-align: bottom; border-style: none;">
 <tr>
 
+
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="width:32px;height:32px;vertical-align:text-bottom;margin-left: auto; margin-right: auto;"/><p>Ubuntu</p>
+</td>
+
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" style="width:32px;height:32px;vertical-align:text-bottom;margin-left: auto; margin-right: auto;"/><p>Alpine</p>
+</td>
+
 <td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:32px;height:32px;vertical-align:text-bottom;margin-left: auto; margin-right: auto;"/><p>Git</p>
 </td>
@@ -113,6 +122,7 @@ margin-left: auto; margin-right: auto;"/>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="width:32px;height:32px;margin-left: auto; margin-right: auto;vertical-align:text-bottom;"/>
 <p>Azure</p>
 </td>
+
 
 </tr>
 </table>   
