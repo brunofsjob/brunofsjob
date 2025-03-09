@@ -1,10 +1,11 @@
 <!-- cabeçalhos -->
-![alt text](image.png) 
 
 <center>
 <h2> Olá, sejam bem-vindos... 👋 </h2>
 </center>
 <br>
+
+![alt text](image.png) 
 
 ##### Aos poucos estou montando meu portifólio
 
