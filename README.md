@@ -53,7 +53,10 @@
 margin-left: auto; margin-right: auto;"/>
 <p>PHP</p>
 </td>
+</tr>
 
+<tr>
+<td></td>
 <td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="width:32px;height:32px;vertical-align:text-bottom;
 margin-left: auto; margin-right: auto;"/>
@@ -66,7 +69,7 @@ margin-left: auto; margin-right: auto;"/>
 <a href="https://hermes.dio.me/certificates/0SGQSDOK.pdf">
 <p>Python</p></a>
 </td>
-
+<td></td>
 </tr>
 </table>          
 
@@ -93,7 +96,9 @@ margin-left: auto; margin-right: auto;"/>
 <td>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" style="width:32px;height:32px;vertical-align:text-bottom;margin-left: auto; margin-right: auto;"/> 
 <p>Github </p></td>
+</tr>
 
+<tr>
 <td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" style="width:32px;height:32px;vertical-align:text-bottom;margin-left: auto; margin-right: auto;"/> 
 <p>Apache </p></td>
@@ -113,6 +118,11 @@ margin-left: auto; margin-right: auto;"/>
 <p>Kubernetes</p>
 </td>
 
+</tr>
+
+<tr>
+
+<td></td>
 
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width:32px;height:32px;margin-left: auto; margin-right: auto;vertical-align:text-bottom;"/>
 <p>AWS</p>
@@ -120,6 +130,8 @@ margin-left: auto; margin-right: auto;"/>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="width:32px;height:32px;margin-left: auto; margin-right: auto;vertical-align:text-bottom;"/>
 <p>Azure</p>
 </td>
+
+<td></td>
 
 </tr>
 </table>   
