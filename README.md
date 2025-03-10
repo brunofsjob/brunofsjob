@@ -4,8 +4,11 @@
 * gosto de Desenvolvimento Web Front-end e Back-end,
 * pretendo postar meus projetos, compartilhar código e me tornar mais ativo na comunidade de devs.
 
+<br>
+
 Habilidades
 ----
+
 ### 🧠 Soft Skills
  - 🤝 Trabalho em equipe <br>
  - 🗣️ Boa comunicação <br>
@@ -16,7 +19,8 @@ Habilidades
  - 🫂 Respeito e empatia pelas pessoas <br>
  
 
-----
+<br>
+
 ### 🔥 Hard Skills
  
 <table style="position: relative; text-align: center; vertical-align:text-bottom; border: none; overflow-x:auto;">
