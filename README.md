@@ -7,12 +7,13 @@
 🙂 Se você também gosta de programação, pode me seguir nas minhas redes sociais, que eu sigo de volta!
 
 
-
+----
 ## 📩 Contatos
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](img/instagram.svg)](https://www.instagram.com/brunofsjob) &nbsp; [![Facebook](img/facebook.svg)](https://www.facebook.com/brunofsjob) &nbsp; [![Linkedin](img/linkedin.svg)](https://www.linkedin.com/in/brunofsjob) &nbsp;
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](icon/instagram.svg)](https://www.instagram.com/brunofsjob) &nbsp; [![Facebook](icon/facebook.svg)](https://www.facebook.com/brunofsjob) &nbsp; [![Linkedin](icon/linkedin.svg)](https://www.linkedin.com/in/brunofsjob) &nbsp;
 
+----
 
-##### 🙂 _Volte sempre!!_ 🙏🏻
+##### 😎 _Volte sempre!!_ 🙏🏻
 
 
   
