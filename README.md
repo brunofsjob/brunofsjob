@@ -1,6 +1,6 @@
 ## 👋 Olá DEVs !!
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="180" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 * Meu nome é Bruno, me formei recentemente em Engenharia de Software, atualmente estou buscando certificações,
 * gosto de Desenvolvimento Web Front-end e Back-end,
