@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Olá DEVs !!
 
-<!--
-**brunofsjob/brunofsjob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Meu nome é Bruno, me formei recentemente em Engenharia de Software, atualmente estou buscando certificações,
+* gosto de Desenvolvimento Web Front-end e Back-end,
+* tenho pretensão de postar meus projetos, compartilhar código e me tornar mais ativo na comunidade de devs.
 
-Here are some ideas to get you started:
+🙂 Se você também gosta de programação, pode me seguir nas minhas redes sociais, que eu sigo de volta!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📩 Contatos
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](img/instagram.svg)](https://www.instagram.com/brunofsjob) &nbsp; [![Facebook](img/facebook.svg)](https://www.facebook.com/brunofsjob) &nbsp; [![Linkedin](img/linkedin.svg)](https://www.linkedin.com/in/brunofsjob) &nbsp;
+
+
+##### 🙂 _Volte sempre!!_ 🙏🏻
+
+
+  
+ 
