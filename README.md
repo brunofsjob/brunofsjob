@@ -8,7 +8,7 @@
 
 
 ----
-## 📩 Contatos
+## 📩 Redes Sociais
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](icon/instagram.svg)](https://www.instagram.com/brunofsjob) &nbsp; [![Facebook](icon/facebook.svg)](https://www.facebook.com/brunofsjob) &nbsp; [![Linkedin](icon/linkedin.svg)](https://www.linkedin.com/in/brunofsjob) &nbsp;
 
 ----
