@@ -1,8 +1,8 @@
 ## 👋 Olá DEVs !!
 
-* Meu nome é Bruno, me formei recentemente em Engenharia de Software, atualmente estou buscando certificações,
+* Meu nome é Bruno, tenho formação em Engenharia de Software, atualmente estou buscando certificações,
 * gosto de Desenvolvimento Web Front-end e Back-end,
-* pretendo de postar meus projetos, compartilhar código e me tornar mais ativo na comunidade de devs.
+* pretendo postar meus projetos, compartilhar código e me tornar mais ativo na comunidade de devs.
 
 
 ----
@@ -66,7 +66,6 @@ margin-left: auto; margin-right: auto;"/>
 
 <table style="text-align: center; vertical-align: bottom; border-style: none; overflow-x:auto;">
 <caption><h4>🚀 Tecnologias</h4></caption>
-
 
 <tr>
 <td style="padding: 10px 15px 0px 10px;width:62px;">
