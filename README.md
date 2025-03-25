@@ -110,7 +110,7 @@ margin-left: auto; margin-right: auto;"/>
 
 <tr>
 
-<td></td>
+<td><img src="icon/anaconda.svg" style="width:32px;height:32px;margin-left: auto; margin-right: auto;vertical-align:text-bottom;"><p>Anaconda</p></td>
 
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width:32px;height:32px;margin-left: auto; margin-right: auto;vertical-align:text-bottom;"/>
 <p>AWS</p>
