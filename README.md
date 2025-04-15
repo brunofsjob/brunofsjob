@@ -119,8 +119,11 @@ margin-left: auto; margin-right: auto;"/>
 <p>Azure</p>
 </td>
 
-<td><img src="icon/SQLAlchemy.svg" style="width:32px;height:32px;margin-left: auto; margin-right: auto;vertical-align:text-bottom;"/></td>
+<td><img src="icon/SQLAlchemy.svg" style="width:32px;height:32px;margin-left: auto; margin-right: auto;vertical-align:text-bottom;"/>
 <p>SQLAlchemy</p>
+
+</td>
+
 </tr>
 </table>   
 <br>
